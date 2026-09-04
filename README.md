@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on real-time applications<br><br>👯 I’m looking to collaborate on Open Source Projects & Full Stack Development<br><br>🤝 I’m looking for help with Backend Development, System Design & Cloud Computing<br><br>🌱 I’m currently learning Frontend, Backend, Databases, Containerization (Docker), Kubernetes (K8s) & CI/CD<br><br>💬 Ask me about Java, JavaScript, React, Node.js, Express.js, MongoDB, SQL, REST APIs & Web Development<br><br>⚡ Fun fact: I love turning CHAI ☕ into code 💻 and solving real-world problems through technology.
+🔭 I’m working on real-time applications<br><br>👯 I’m looking to collaborate on Open Source Projects & Full Stack Development<br><br>🤝 I’m open to help with Backend Development, System Design & Cloud Computing<br><br>🌱 I’m ongoing learning Frontend, Backend, Databases, Containerization (Docker), Kubernetes (K8s) & CI/CD<br><br>💬 Ask me about Java, JavaScript, React, Node.js, Express.js, MongoDB, SQL, REST APIs & Web Development<br><br>⚡ Fun fact: I love turning CHAI ☕ into code 💻 and solving real-world problems through technology.
 
 
 ## 🌐 Socials:
