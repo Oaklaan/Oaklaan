@@ -1,8 +1,8 @@
-🔭 I’m working on real-time applications<br><br>👯 I’m looking to collaborate on Open Source Projects & Full Stack Development<br><br>🤝 I’m open to help with Backend Development, System Design & Cloud Computing<br><br>🌱 I’m ongoing learning Frontend, Backend, Databases, Containerization (Docker), Kubernetes (K8s) & CI/CD<br><br>💬 Ask me about Java, JavaScript, React, Node.js, Express.js, MongoDB, SQL, REST APIs & Web Development<br><br>⚡ Fun fact: I love turning CHAI ☕ into code 💻 and solving real-world problems through technology.
+<h1 align="center">Hi 👋, I'm Krushna Koshatwar</h1> <h3 align="center">🚀 Aspiring Backend & Full Stack Engineer | Java & JavaScript Developer</h3>
 
+<p align="center"> <em>Building real-time applications and solving real-world problems through technology</em> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kk__619/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krushna-koshatwar-65966b284/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krushnakoshatwar619@gmail.com) 
+<p align="center"> <a href="https://www.linkedin.com/in/krushna-koshatwar-65966b284/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a> <a href="mailto:krushnakoshatwar619@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" /> </a> <a href="https://instagram.com/kk__619/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> </p>
 
 # 💻 Tech Stack:
 ## 🛠️ Tech Stack
