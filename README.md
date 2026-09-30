@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krushna Koshatwar</h1> <h3 align="center">🚀 Aspiring Backend & Full Stack Engineer | Java & JavaScript Developer</h3>
 
-<p align="center"> <em>Building real-time applications and solving real-world problems through technology</em> </p>
+<p align="center"> <em>Building real-time applications and solving real-world problems through technology!</em> </p>
 
 <p align="center"> <a href="https://www.linkedin.com/in/krushna-koshatwar-65966b284/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a> <a href="mailto:krushnakoshatwar619@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" /> </a> <a href="https://instagram.com/kk__619/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> </p>
 
