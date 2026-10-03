@@ -9,6 +9,7 @@
 I’m a passionate **Backend & Full Stack Developer** focused on building scalable, real-time applications and solving real-world problems through technology.  
 I work with **Java, JavaScript, Node.js, Express.js, React, MongoDB, SQL, and REST APIs**, while continuously strengthening my DSA and system design skills.  
 🌱 Currently exploring **Docker, Kubernetes, Cloud Computing & CI/CD** to build reliable, production-ready applications and contribute to impactful open-source projects.
+🚀 Currently learning and building with JavaScript, backend technologies, and other projects across my repositories feel free to visit my repositories and explore my work!
 
 ## 🛠️ Tech Stack
 
