@@ -29,7 +29,6 @@ I work with **Java, JavaScript, Node.js, Express.js, React, MongoDB, SQL, and RE
 ![](https://streak-stats.demolab.com/?user=oaklaan&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=oaklaan&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# fun
 <p align="center">
   <img src="./fox-peekaboo-3d.svg" alt="Fox playing hide and seek" width="600" />
 </p>
