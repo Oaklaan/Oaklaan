@@ -25,9 +25,16 @@ I work with **Java, JavaScript, Node.js, Express.js, React, MongoDB, SQL, and RE
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=oaklaan&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=oaklaan&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=oaklaan&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=oaklaan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&bg_color=0f2a24&title_color=9be3b8&text_color=c9d9d3&icon_color=f2a65a" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=oaklaan&layout=compact&langs_count=6&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&bg_color=0f2a24&title_color=9be3b8&text_color=c9d9d3" />
+</p>
+
+<p align="center">
+  <img alt="Streak stats" src="https://streak-stats.demolab.com/?user=oaklaan&hide_border=true&border_radius=14&background=0f2a24&ring=f2a65a&fire=f2a65a&currStreakNum=9be3b8&sideNums=9be3b8&currStreakLabel=f2a65a&sideLabels=c9d9d3&dates=8fb0a3" />
+</p>
 
 <p align="center">
   <img src="./fox-peekaboo-3d.svg" alt="Fox playing hide and seek" width="600" />
