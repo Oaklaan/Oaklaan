@@ -27,12 +27,12 @@ I work with **Java, JavaScript, Node.js, Express.js, React, MongoDB, SQL, and RE
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
+<p>
   <img height="170" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=oaklaan&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=14&bg_color=eef7f1&border_color=cfe3d6&title_color=2f7a57&text_color=3b5348&icon_color=e07a2f" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=oaklaan&layout=compact&langs_count=6&include_all_commits=true&count_private=true&hide_border=false&border_radius=14&bg_color=eef7f1&border_color=cfe3d6&title_color=2f7a57&text_color=3b5348" />
+  
 </p>
 
-<p align="center">
+<p>
   <img alt="Streak stats" src="https://streak-stats.demolab.com/?user=oaklaan&hide_border=false&border_radius=14&background=eef7f1&border=cfe3d6&stroke=cfe3d6&ring=e07a2f&fire=e07a2f&currStreakNum=2f7a57&sideNums=2f7a57&currStreakLabel=e07a2f&sideLabels=3b5348&dates=6b8578" />
 </p>
 
