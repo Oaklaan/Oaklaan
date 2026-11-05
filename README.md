@@ -33,6 +33,7 @@ I work with **Java, JavaScript, Node.js, Express.js, React, MongoDB, SQL, and RE
 <img height="170" alt="Streak stats" src="https://streak-stats.demolab.com/?user=oaklaan&hide_border=false&border_radius=14&background=eef7f1&border=cfe3d6&stroke=cfe3d6&ring=e07a2f&fire=e07a2f&currStreakNum=2f7a57&sideNums=2f7a57&currStreakLabel=e07a2f&sideLabels=3b5348&dates=6b8578" /> 
 
 <p align="center">
+    <img src="./fox-peekaboo-3d.svg" alt="Fox playing hide and seek" width="600" />
   <a href="https://marketplace.visualstudio.com/items?itemName=KrushnaKoshatwar.codefox">
     <img alt="CodeFox on the VS Code Marketplace" src="https://img.shields.io/badge/CodeFox-VS%20Code%20Marketplace-FBAE78?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=FFC8D2" />
   </a>
