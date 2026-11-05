@@ -34,4 +34,9 @@ I work with **Java, JavaScript, Node.js, Express.js, React, MongoDB, SQL, and RE
 
 <p align="center">
   <img src="./fox-peekaboo-3d.svg" alt="Fox playing hide and seek" width="600" />
+  <p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=KrushnaKoshatwar.codefox">
+    <img alt="CodeFox on the VS Code Marketplace" src="https://img.shields.io/badge/CodeFox-VS%20Code%20Marketplace-FBAE78?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=FFC8D2" />
+  </a>
+</p>
 </p>
